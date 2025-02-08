@@ -1,6 +1,4 @@
 # Bike Rental System  
-
-# Overview  
 The **Bike Rental System** is a Python-based terminal application that allows users to rent and return bikes on a **daily** or **weekly** basis. It includes features like stock management, rental cost calculation, and a **family discount** for renting multiple bikes.  
 
 # Features  
